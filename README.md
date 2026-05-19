@@ -1,6 +1,6 @@
 # arXiv Paper Curator (RAG)
 
-Developed by Abhishek
+
 
 This repository provides a retrieval-augmented generation (RAG) system for ingesting, indexing, and searching academic papers (arXiv). It is intended for local development and experimentation.
 
